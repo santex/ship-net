@@ -37,3 +37,9 @@ check your clipps folder for video & image
 
 
 ![check and find similar](https://github.com/santex/ship-net/blob/master/clipps/20230129/133103_008080c0c0c0c080_1_899_357_240_234.jpg)
+
+
+# ffmpeg video
+![check video](https://github.com/santex/ship-net/blob/master/clipps/1600_sat.mp4)
+
+
