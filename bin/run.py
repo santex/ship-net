@@ -824,7 +824,7 @@ sat=labelList[len(labelList)-1]
 #print(labelList[len(labelList)-1])
 pathOut = os.path.join(os.getcwd())
 #args.{"sat":sat}
-saved_video_file_name = os.path.join(args.get('clipps'),"1600_2022_sat.mp4")
+saved_video_file_name = os.path.join(args.get('clipps'),"{}_sat.mp4".format(args.get('sat')))
 
 expr = args.get('expr')
 dirs = find(pathIn,'*'+expr+'*')
