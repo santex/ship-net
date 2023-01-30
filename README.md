@@ -6,7 +6,7 @@ git@github.com:santex/ship-net.git
 cd ship-net;
 python3.9 -m pip install -r requirements.txt
 ```
-# get source data to put in sat
+# skip source data use what is in sat
 
 ## c2
 bash soho-get.sh c2 "20230101" | xargs wget -rc
