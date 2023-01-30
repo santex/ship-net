@@ -25,5 +25,5 @@ python3.9 run.py --source ../sat/1600 --clipps ../clipps --sat 1600 --expr 2023
 
 
 # did it work
-
+check your clipps folder for video & image
 ![check and find similar](https://github.com/santex/ship-net/blob/master/clipps/20230129/133103_008080c0c0c0c080_1_899_357_240_234.jpg)
