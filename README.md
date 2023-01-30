@@ -40,6 +40,6 @@ check your clipps folder for video & image
 
 
 # ffmpeg video
-![check video](https://github.com/santex/ship-net/blob/master/clipps/1600_sat.mp4)
+![check video][https://github.com/santex/ship-net/blob/master/clipps/1600_sat.mp4]
 
 
