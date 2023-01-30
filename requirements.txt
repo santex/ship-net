@@ -23,10 +23,10 @@ flask-sqlalchemy==2.5.1
 flask-testing==0.7.1
 flask-wtf==1.0.0
 flask
-h5py==3.7.0
-numpy==1.21.6
-opencv-python==4.5.5.64
-pillow==9.3.0
+h5py
+numpy
+opencv-python
+pillow
 pip
 urllib3
 python-dateutil==2.8.2
