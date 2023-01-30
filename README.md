@@ -1,11 +1,11 @@
 # install
 
 manage your requirements.txt
-
+```
 git@github.com:santex/ship-net.git
 cd ship-net;
 python3.9 -m pip install -r requirements.txt
-
+```
 # get source data to put in sat
 
 ## c2
