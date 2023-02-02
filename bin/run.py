@@ -121,7 +121,7 @@ def extract_corners(image , file_name,ROI_number):
         # compute the bounding box for the contour, draw it on the frame,
         # and update the text
 
-        cv2.imwrite('{}/{}_{}_{}_{}_{}_{}.png'.format(clipps,base_name,ROI_number,x,y,w,h), ROI)
+        cv2.imwrite('{}/{}_{}_{}_{}_{}.png'.format(clipps,base_name,x,y,w,h), ROI)
         ROI_number += 1
 
         #cv2.drawContours(image, [cnt], 0, (0,255,0), 3)
@@ -378,7 +378,7 @@ def cSat(c , frame, file_name,ROI_number,messure,bg,slots,n,hcontainer,org_image
             #
             """
             dd=base_name.split("_")[0]
-            im = '{}/{}/{}_{}_{}_{}_{}_{}.jpg'.format(clipps,dd,base_name,ROI_number,x,y,w,h)
+            im = '{}/{}/{}_{}_{}_{}_{}.jpg'.format(clipps,dd,base_name,x,y,w,h)
             
             cv2.imwrite(im, ROIx)
             hashx = imagehash.average_hash(Image.open(im))
@@ -462,7 +462,7 @@ def cSat(c , frame, file_name,ROI_number,messure,bg,slots,n,hcontainer,org_image
 
                     print("to-small")
                 else:
-                    im2 = '{}/{}/{}_{}_{}_{}_{}_{}_{}.jpg'.format(clipps,dd,time,hashstr,ROI_number,x,y,w,h)
+                    im2 = '{}/{}/{}_{}_{}_{}_{}_{}.jpg'.format(clipps,dd,time,hashstr,x,y,w,h)
                     cv2.imwrite(im2,ROIx)
 
                     ROI_number=ROI_number+1
