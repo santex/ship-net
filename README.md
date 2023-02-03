@@ -37,7 +37,7 @@ check your clipps folder for video & image
 
 
 ![check a 1600 samples](https://raw.githubusercontent.com/santex/ship-net/master/clipps/1600_sample.jpg)
-![check a 1700 samples](https://raw.githubusercontent.com/santex/ship-net/master/clipps/1700_smaple.jpg)
+![check a 1700 samples](https://raw.githubusercontent.com/santex/ship-net/master/clipps/1700_sample.jpg)
 
 # ffmpeg video
 
