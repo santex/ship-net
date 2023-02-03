@@ -1,3 +1,20 @@
+# 10G discspace required
+
+space is occupied between sample data
+of two starcraft each with two tools
+```
+soho c2 c3
+sdo  1600 1700
+```
+
+lists with most of the rest of source urls 
+for the images are also found in lists folder
+devided in month.
+keep in mind nasa changed urls 3 times
+over last few years 
+
+
+
 # install
 
 manage your requirements.txt
