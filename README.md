@@ -1,7 +1,7 @@
 # 10G discspace required
 
 space is occupied between sample data
-of two starcraft each with two tools
+of two space-craft each with two tools
 ```
 soho c2 c3
 sdo  1600 1700
