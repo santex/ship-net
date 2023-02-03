@@ -36,8 +36,8 @@ python3.9 run.py --source ../sat/1600 --clipps ../clipps --sat 1600 --expr 2023
 check your clipps folder for video & image
 
 
-![check a 1600 samples](https://github.com/santex/ship-net/blob/master/clipps/1600_smaple.jpg)
-![check a 1700 samples](https://github.com/santex/ship-net/blob/master/clipps/1700_smaple.jpg)
+![check a 1600 samples](https://raw.githubusercontent.com/santex/ship-net/master/clipps/1600_sample.jpg)
+![check a 1700 samples](https://raw.githubusercontent.com/santex/ship-net/master/clipps/1700_smaple.jpg)
 
 # ffmpeg video
 
