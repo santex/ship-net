@@ -50,3 +50,4 @@ tensorflow-io-gcs-filesystem
 tensorflow
 torch
 torchvision
+aiofiles

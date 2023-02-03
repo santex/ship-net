@@ -441,7 +441,7 @@ def cSat(c , frame, file_name,ROI_number,messure,bg,slots,n,hcontainer,org_image
                 pprint.pprint(slotmap)
                 if file_size_clipp < 2:
                   print("tosmall")
-                elif file_size_clipp < 6:
+                elif file_size_clipp < 3:
                     
                     ROI  = cv2.rotate(ROI, cv2.ROTATE_90_CLOCKWISE)
                     ROI = cv2.resize(ROIx, (310,260))
@@ -717,11 +717,11 @@ def solve(pts, pt, hash):
 
 def get_category_numeric_id(category):
     if (category.startswith('c2')): #black red
-        return [[180,255,0],50]
+        return [[220,250,0],50]
     elif (category.startswith('c3')): #black blue
-        return  [[180,255,0],50]
+        return  [[227,250,250],50]
     elif (category.startswith('0131')): # black blue
-        return [[180,255,0],300]
+        return [[240,255,0],300]
     elif (category.startswith('1600')): #black yellow
          return [[0,200,0],100]
     elif (category.startswith('0304')): #black red
