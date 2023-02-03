@@ -444,7 +444,7 @@ def cSat(c , frame, file_name,ROI_number,messure,bg,slots,n,hcontainer,org_image
                 elif file_size_clipp < 3:
                     
                     ROI  = cv2.rotate(ROI, cv2.ROTATE_90_CLOCKWISE)
-                    ROI = cv2.resize(ROIx, (310,260))
+                    ROI = cv2.resize(ROIx, (300,200))
                     
                     cv2.rectangle(frame, (x, y),(x + w, y + h), (0, 255, 0), 1)              
                     cv2.putText(ROI, "f={}:x={}:y={}".format(i,x,y), (6,15),1, 1, ( 235,  200, 255), 1)
@@ -488,7 +488,7 @@ def cSat(c , frame, file_name,ROI_number,messure,bg,slots,n,hcontainer,org_image
                       print(n)
 
                                                 
-                    ROI = cv2.resize(ROIx, (425,830))
+                    ROI = cv2.resize(ROIx, (405,800))
                     ROI  = cv2.rotate(ROI, cv2.ROTATE_90_CLOCKWISE)
                     cv2.putText(ROI, "f={}:x={}:y={}".format(i,x,y), (6,15),1, 1, ( 235,  200, 255), 1)
                     bg = image_info(n,ROI,bg,image.shape[0]+660+(0*370),((16*nx)*27+25))
