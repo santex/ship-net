@@ -37,10 +37,14 @@ check your clipps folder for video & image
 
 ## the 1600 tool
 ![check a 1600 samples](https://raw.githubusercontent.com/santex/ship-net/master/clipps/1600_sample.jpg)
+
+### enhanced
 ![check a 1600 samples](https://raw.githubusercontent.com/santex/ship-net/master/clipps/1600_sample_enhanced.jpg)
 
 ## the 1700 tool
 ![check a 1700 samples](https://raw.githubusercontent.com/santex/ship-net/master/clipps/1700_sample.jpg)
+
+### enhanced
 ![check a 1700 samples](https://raw.githubusercontent.com/santex/ship-net/master/clipps/1700_sample_enhanced.jpg)
 # ffmpeg video
 
