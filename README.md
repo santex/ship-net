@@ -6,8 +6,7 @@ of two space-craft each with two tools
 soho c2 c3
 sdo  1600 1700
 ```
-[![Data Set]([/assets/images/codey.jpg](https://storage.googleapis.com/kaggle-datasets-images/3138896/5422629/95e2cb04fb4888500edb158aeb304ba1/dataset-cover.png) '6 long run high res videos')]([https://codecademy.com](https://www.kaggle.com/datasets/santex/ship-net-satellite-computer-vision-out-video))
-
+![Dataset on kaggle]([https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif](https://storage.googleapis.com/kaggle-datasets-images/3138896/5422629/95e2cb04fb4888500edb158aeb304ba1/dataset-cover.png) 'Ship-net')
 
 
 lists with most of the rest of source urls 
