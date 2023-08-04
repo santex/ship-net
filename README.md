@@ -6,7 +6,9 @@ of two space-craft each with two tools
 soho c2 c3
 sdo  1600 1700
 ```
-![Dataset on kaggle]([https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif](https://storage.googleapis.com/kaggle-datasets-images/3138896/5422629/95e2cb04fb4888500edb158aeb304ba1/dataset-cover.png) 'Ship-net')
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 
 lists with most of the rest of source urls 
