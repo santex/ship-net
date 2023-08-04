@@ -8,7 +8,7 @@ sdo  1600 1700
 ```
 
 # have a look at results here
-[<img src="https://storage.googleapis.com/kaggle-datasets-images/3138896/5422629/95e2cb04fb4888500edb158aeb304ba1/dataset-cover.png">](https://www.kaggle.com/datasets/santex/ship-net-satellite-computer-vision-out-video)
+
 
 lists with most of the rest of source urls 
 for the images are also found in lists folder
